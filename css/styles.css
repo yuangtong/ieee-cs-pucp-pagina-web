@@ -1,0 +1,30 @@
+header {
+    position: relative;
+  }
+  
+  nav {
+    position: absolute;
+    top: 0;
+    right: 0;
+  }
+  
+  nav ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    text-align: right;
+  }
+  
+  nav li {
+    display: inline-block;
+    padding: 10px;
+  }
+  
+  nav a {
+    text-transform: uppercase;
+    color: black;
+    font-weight: bold;
+    font-size: auto;
+    text-decoration: none;
+  }
+  
